@@ -60,7 +60,7 @@
 8. Container port: Pastikan diatur ke 8501.
 9. Klik Create.
 
-![Logo]('img/gemini.png')
+![Hasil](/img//gemini.png)
 
 ## Demo
 
